@@ -1,0 +1,4 @@
+escape ``
+autodetach on
+caption always "%{rk}%H %{gk}%c %{yk}%M%d %{wk}%?%-Lw%?%{bw}%n*%f %t%?(%u)%?%{wk}%?%+Lw%?"
+term xterm
